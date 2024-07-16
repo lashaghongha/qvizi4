@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\final qvizi4\final qvizi4\bin\Debug\final qvizi4.exe.config
+C:\Users\user\Desktop\final qvizi4\final qvizi4\bin\Debug\final qvizi4.exe
+C:\Users\user\Desktop\final qvizi4\final qvizi4\bin\Debug\final qvizi4.pdb
+C:\Users\user\Desktop\final qvizi4\final qvizi4\obj\Debug\final qvizi4.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\final qvizi4\final qvizi4\obj\Debug\final qvizi4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\final qvizi4\final qvizi4\obj\Debug\final qvizi4.exe
+C:\Users\user\Desktop\final qvizi4\final qvizi4\obj\Debug\final qvizi4.pdb
